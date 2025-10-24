@@ -18,3 +18,8 @@ This project showcases:
 ```bash
 git clone https://github.com/NishitPDesai/devops-git-project.git
 cd devops-git-project
+
+## Current Features
+- Basic Python script with utility functions
+- Git workflow documentation
+- Proper branch protection
